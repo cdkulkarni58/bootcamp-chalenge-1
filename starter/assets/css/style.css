@@ -84,8 +84,15 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+  
 }
+div {
+    border: top 20px solid blue;
+    border:bottom 20px solid blue;
+    border: left 20px solid blue;
+    border: right 20px solid blue;
 
+}
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -105,6 +112,20 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
+h2 {
+border-style: solid;
+border: width 6px;
+border-color: blueviolet;
+
+}
+h3 {
+    border-style: solid;
+    border: width 6px;
+    border-color: rgb(104, 43, 226);
+    
+    }
+
 
 .benefit-brand h3 {
     margin-bottom: 10px;
@@ -197,4 +218,10 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+.footer h2 {
+    border-style: solid;
+    border: width 6px;
+    border-color:rebeccapurple ;
+
 }
