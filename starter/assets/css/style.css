@@ -86,13 +86,7 @@ p {
     background-color: #2589bd;
   
 }
-div {
-    border: top 20px solid blue;
-    border:bottom 20px solid blue;
-    border: left 20px solid blue;
-    border: right 20px solid blue;
 
-}
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
